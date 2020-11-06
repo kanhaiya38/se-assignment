@@ -1,0 +1,195 @@
+
+<?xml version="1.0" encoding="utf-8" ?><transcript><text start="13.46" dur="2.175">Chris Anderson: This is such
+a strange thing.</text><text start="15.659" dur="3.158">Your software, Linux,
+is in millions of computers,</text><text start="18.841" dur="3.547">it probably powers much of the Internet.</text><text start="22.412" dur="1.763">And I think that there are, like,</text><text start="24.199" dur="3.345">a billion and a half active
+Android devices out there.</text><text start="27.568" dur="2.601">Your software is in every
+single one of them.</text><text start="30.808" dur="1.15">It&amp;#39;s kind of amazing.</text><text start="31.982" dur="5.035">You must have some amazing
+software headquarters driving all this.</text><text start="37.041" dur="3.306">That&amp;#39;s what I thought -- and I was shocked
+when I saw a picture of it.</text><text start="40.371" dur="1.2">I mean, this is --</text><text start="41.595" dur="2.25">this is the Linux world headquarters.</text><text start="43.869" dur="1.99">(Laughter)</text><text start="45.883" dur="4.006">(Applause)</text><text start="49.913" dur="2.286">Linus Torvalds: It really
+doesn&amp;#39;t look like much.</text><text start="52.223" dur="1.676">And I have to say,</text><text start="53.923" dur="3.82">the most interesting part in this picture,</text><text start="57.767" dur="1.703">that people mostly react to,</text><text start="59.494" dur="1.443">is the walking desk.</text><text start="60.961" dur="2.699">It is the most interesting
+part in my office</text><text start="63.684" dur="1.96">and I&amp;#39;m not actually using it anymore.</text><text start="65.668" dur="2.292">And I think the two things are related.</text><text start="69.206" dur="2.325">The way I work is ...</text><text start="73.245" dur="4.349">I want to not have external stimulation.</text><text start="78.17" dur="5.267">You can kind of see,
+on the walls are this light green.</text><text start="83.461" dur="4.464">I&amp;#39;m told that at mental institutions
+they use that on the walls.</text><text start="87.949" dur="1.047">(Laughter)</text><text start="89.02" dur="1.785">It&amp;#39;s like a calming color,</text><text start="90.829" dur="3.117">it&amp;#39;s not something
+that really stimulates you.</text><text start="95.064" dur="4.425">What you can&amp;#39;t see is the computer here,
+you only see the screen,</text><text start="99.513" dur="3.381">but the main thing I worry
+about in my computer is --</text><text start="102.918" dur="3.335">it doesn&amp;#39;t have to be big
+and powerful, although I like that --</text><text start="106.277" dur="2.832">it really has to be completely silent.</text><text start="109.975" dur="2.011">I know people who work for Google</text><text start="112.01" dur="3.207">and they have their own
+small data center at home,</text><text start="115.241" dur="1.152">and I don&amp;#39;t do that.</text><text start="116.417" dur="3.705">My office is the most
+boring office you&amp;#39;ll ever see.</text><text start="120.146" dur="3.514">And I sit there alone in the quiet.</text><text start="124.136" dur="2.037">If the cat comes up,</text><text start="126.197" dur="1.837">it sits in my lap.</text><text start="128.058" dur="2.19">And I want to hear the cat purring,</text><text start="130.272" dur="3.174">not the sound of the fans in the computer.</text><text start="133.47" dur="1.309">CA: So this is astonishing,</text><text start="134.803" dur="2.678">because working this way,</text><text start="137.505" dur="2.988">you&amp;#39;re able to run this vast
+technology empire --</text><text start="140.517" dur="1.221">it is an empire --</text><text start="141.762" dur="3.7">so that&amp;#39;s an amazing testament
+to the power of open source.</text><text start="145.486" dur="4.176">Tell us how you got
+to understand open source</text><text start="149.686" dur="2.252">and how it lead
+to the development of Linux.</text><text start="153.546" dur="1.505">LT: I mean, I still work alone.</text><text start="155.075" dur="3.567">Really -- I work alone in my house,</text><text start="158.666" dur="1.39">ofte in my bathrobe.</text><text start="160.08" dur="2.561">When a photographer shows up, I dress up,</text><text start="162.665" dur="1.286">so I have clothes on.</text><text start="163.975" dur="1.237">(Laughter)</text><text start="165.236" dur="2.072">And that&amp;#39;s how I&amp;#39;ve always worked.</text><text start="167.332" dur="2.008">I mean, this was how I started Linux, too.</text><text start="169.364" dur="3.649">I did not start Linux
+as a collaborative project.</text><text start="173.037" dur="4.878">I started it as one
+in a series of many projects</text><text start="177.939" dur="3.957">I had done at the time for myself,</text><text start="181.92" dur="1.902">partly because I needed the end result,</text><text start="183.846" dur="2.302">but even more because I just
+enjoyed programming.</text><text start="186.172" dur="4.374">So it was about the end of the journey,</text><text start="190.57" dur="3.346">which, 25 years later,
+we still have not reached.</text><text start="193.94" dur="3.717">But it was really about the fact
+that I was looking for a project on my own</text><text start="197.681" dur="3.829">and there was no open source,
+really, on my radar at all.</text><text start="201.988" dur="2.012">And what happened is ...</text><text start="204.668" dur="4.552">the project grows and becomes something
+you want to show off to people.</text><text start="210.552" dur="4.117">Really, this is more of a, &amp;quot;Wow,
+look at what I did!&amp;quot;</text><text start="214.693" dur="2.555">And trust me -- it was not
+that great back then.</text><text start="218.128" dur="1.874">I made it publicly available,</text><text start="220.026" dur="2.106">and it wasn&amp;#39;t even
+open source at that point.</text><text start="222.156" dur="5.169">At that point it was source that was open,
+but there was no intention</text><text start="227.349" dur="5.114">behind using the kind of open-source
+methodology that we think of today</text><text start="232.487" dur="1.151">to improve it.</text><text start="233.662" dur="1.151">It was more like,</text><text start="234.837" dur="2.937">&amp;quot;Look, I&amp;#39;ve been working
+on this for half a year,</text><text start="238.459" dur="1.739">I&amp;#39;d love to have comments.&amp;quot;</text><text start="240.717" dur="2">And other people approached me.</text><text start="243.217" dur="1.652">At the University of Helsinki,</text><text start="244.893" dur="3.715">I had a friend who was one
+of the open source --</text><text start="248.632" dur="3.656">it was called mainly
+&amp;quot;free software&amp;quot; back then --</text><text start="252.312" dur="4.274">and he actually introduced me
+to the notion that, hey,</text><text start="256.61" dur="5.357">you can use these open-source
+licenses that had been around.</text><text start="264.114" dur="2.041">And I thought about it for a while.</text><text start="266.179" dur="3.491">I was actually worried about the whole
+commercial interests coming in.</text><text start="269.694" dur="4.474">I mean, that&amp;#39;s one of the worries
+I think most people who start out have,</text><text start="274.192" dur="4.96">is that they worry about somebody
+taking advantage of their work, right?</text><text start="279.603" dur="3.256">And I decided, &amp;quot;What the hell?&amp;quot;</text><text start="283.74" dur="1.15">And --</text><text start="284.914" dur="1.295">CA: And then at some point,</text><text start="286.233" dur="2.46">someone contributed
+some code that you thought,</text><text start="288.717" dur="3.171">&amp;quot;Wow, that really is interesting,
+I would not have thought of that.</text><text start="291.912" dur="1.651">This could actually improve this.&amp;quot;</text><text start="293.587" dur="2.525">LT: It didn&amp;#39;t even start
+by people contributing code,</text><text start="296.136" dur="2.979">it was more that people
+started contributing ideas.</text><text start="299.748" dur="3.246">And just the fact that somebody else
+takes a look at your project --</text><text start="303.018" dur="2.548">and I&amp;#39;m sure it&amp;#39;s true
+of other things, too,</text><text start="305.59" dur="1.837">but it&amp;#39;s definitely true in code --</text><text start="307.451" dur="3.499">is that somebody else
+takes an interest in your code,</text><text start="310.974" dur="2.522">looks at it enough to actually
+give you feedback</text><text start="313.52" dur="1.889">and give you ideas.</text><text start="315.433" dur="1.701">That was a huge thing for me.</text><text start="317.158" dur="3.192">I was 21 at the time, so I was young,</text><text start="320.374" dur="3.237">but I had already programmed
+for half my life, basically.</text><text start="324.372" dur="3.972">And every project before that
+had been completely personal</text><text start="328.368" dur="3.107">and it was a revelation when people
+just started commenting,</text><text start="331.499" dur="3.301">started giving feedback on your code.</text><text start="334.824" dur="3.772">And even before they started
+giving code back,</text><text start="338.62" dur="2.741">that was, I think, one of the big
+moments where I said,</text><text start="341.385" dur="1.873">&amp;quot;I love other people!&amp;quot;</text><text start="343.282" dur="1.157">Don&amp;#39;t get me wrong --</text><text start="344.463" dur="1.624">I&amp;#39;m actually not a people person.</text><text start="346.111" dur="3.365">(Laughter)</text><text start="349.5" dur="2.552">I don&amp;#39;t really love other people --</text><text start="352.076" dur="1.02">(Laughter)</text><text start="353.12" dur="1.626">But I love computers,</text><text start="354.77" dur="2.215">I love interacting with other
+people on email,</text><text start="357.009" dur="3.332">because it kind of gives you that buffer.</text><text start="360.365" dur="6.501">But I do love other people who comment
+and get involved in my project.</text><text start="366.89" dur="1.653">And it made it so much more.</text><text start="369.273" dur="2.834">CA: So was there a moment
+when you saw what was being built</text><text start="372.131" dur="2.207">and it suddenly started taking off,</text><text start="374.362" dur="3.29">and you thought, &amp;quot;Wait a sec,
+this actually could be something huge,</text><text start="377.676" dur="2.912">not just a personal project
+that I&amp;#39;m getting nice feedback on,</text><text start="380.612" dur="4.32">but a kind of explosive development
+in the whole technology world&amp;quot;?</text><text start="385.821" dur="1.159">LT: Not really.</text><text start="387.004" dur="3.572">I mean, the big point for me, really,
+was not when it was becoming huge,</text><text start="390.6" dur="2.134">it was when it was becoming little.</text><text start="393.709" dur="3.517">The big point for me was not being alone</text><text start="397.25" dur="3.717">and having 10, maybe 100
+people being involved --</text><text start="400.991" dur="1.479">that was a big point.</text><text start="402.494" dur="3.039">Then everything else was very gradual.</text><text start="405.557" dur="4.259">Going from 100 people to a million people
+is not a big deal -- to me.</text><text start="409.84" dur="1.833">Well, I mean, maybe it is if you&amp;#39;re --</text><text start="411.697" dur="1.001">(Laughter)</text><text start="412.722" dur="2.718">If you want to sell your result
+then it&amp;#39;s a huge deal --</text><text start="415.464" dur="1.151">don&amp;#39;t get me wrong.</text><text start="416.639" dur="2.127">But if you&amp;#39;re interested in the technology</text><text start="418.79" dur="1.855">and you&amp;#39;re interested in the project,</text><text start="420.669" dur="1.881">the big part was getting the community.</text><text start="422.574" dur="1.624">Then the community grew gradually.</text><text start="424.222" dur="3.348">And there&amp;#39;s actually not
+a single point where I went like,</text><text start="428.166" dur="2.176">&amp;quot;Wow, that just took off!&amp;quot; because it --</text><text start="430.366" dur="3.324">I mean -- it took a long time, relatively.</text><text start="433.714" dur="2.976">CA: So all the technologists
+that I talk to really credit you</text><text start="436.714" dur="2.874">with massively changing their work.</text><text start="439.612" dur="1.623">And it&amp;#39;s not just Linux,</text><text start="441.259" dur="1.446">it&amp;#39;s this thing called Git,</text><text start="442.729" dur="4.012">which is this management system
+for software development.</text><text start="446.765" dur="2.785">Tell us briefly about that
+and your role in that.</text><text start="450.481" dur="1.789">LT: So one of the issues we had,</text><text start="452.294" dur="3.052">and this took a while to start to appear,</text><text start="455.37" dur="1.155">is when you ...</text><text start="457.708" dur="5.332">When you grow from having 10 people
+or 100 people working on a project</text><text start="463.064" dur="2.388">to having 10,000 people, which --</text><text start="465.476" dur="3.466">I mean, right now we&amp;#39;re in the situation
+where just on the kernel,</text><text start="468.966" dur="3.174">we have 1,000 people involved
+in every single release</text><text start="472.164" dur="3.586">and that&amp;#39;s every two months,
+roughly two or three months.</text><text start="476.336" dur="2.421">Some of those people don&amp;#39;t do a lot.</text><text start="478.781" dur="2.583">There&amp;#39;s a lot of people
+who make small, small changes.</text><text start="481.388" dur="2.246">But to maintain this,</text><text start="483.658" dur="2.889">the scale changes how
+you have to maintain it.</text><text start="486.571" dur="2.398">And we went through a lot of pain.</text><text start="490.713" dur="6.529">And there are whole projects
+that do only source-code maintenance.</text><text start="497.266" dur="3.292">CVS is the one that used to be
+the most commonly used,</text><text start="500.582" dur="3.897">and I hated CVS with a passion
+and refused to touch it</text><text start="504.503" dur="3.063">and tried something else
+that was radical and interesting</text><text start="507.59" dur="2.656">and everybody else hated.</text><text start="511.004" dur="1.374">CA: (Laughs)</text><text start="512.402" dur="2.088">LT: And we were in this bad spot,</text><text start="514.514" dur="2.817">where we had thousands of people
+who wanted to participate,</text><text start="517.355" dur="5.041">but in many ways,
+I was the kind of break point,</text><text start="522.42" dur="2.524">where I could not scale to the point</text><text start="524.968" dur="2.8">where I could work
+with thousands of people.</text><text start="527.792" dur="2.452">So Git is my second big project,</text><text start="530.268" dur="4.538">which was only created for me
+to maintain my first big project.</text><text start="535.433" dur="2.247">And this is literally how I work.</text><text start="537.704" dur="2.505">I don&amp;#39;t code for --</text><text start="540.233" dur="1.722">well, I do code for fun --</text><text start="541.979" dur="2.381">but I want to code
+for something meaningful</text><text start="544.384" dur="4.047">so every single project I&amp;#39;ve ever done
+has been something I needed</text><text start="548.455" dur="1.376">and --</text><text start="549.855" dur="3.433">CA: So really, both Linux
+and Git kind of arose</text><text start="553.312" dur="2.336">almost as an unintended consequence</text><text start="555.672" dur="2.671">of your desire not to have
+to work with too many people.</text><text start="558.367" dur="1.151">LT: Absolutely. Yes.</text><text start="559.542" dur="1.08">(Laughter)</text><text start="560.646" dur="1.65">CA: That&amp;#39;s amazing.
+LT: Yeah.</text><text start="562.32" dur="1.492">(Applause)</text><text start="563.836" dur="3.391">And yet, you&amp;#39;re the man
+who&amp;#39;s transformed technology</text><text start="567.251" dur="1.317">not just once but twice,</text><text start="568.592" dur="2.583">and we have to try
+and understand why it is.</text><text start="571.199" dur="1.684">You&amp;#39;ve given us some clues, but ...</text><text start="572.907" dur="4.641">Here&amp;#39;s a picture of you as a kid,
+with a Rubik&amp;#39;s Cube.</text><text start="577.572" dur="4.12">You mentioned that you&amp;#39;ve been
+programming since you were like 10 or 11,</text><text start="581.716" dur="1.365">half your life.</text><text start="583.105" dur="3.816">Were you this sort of computer
+genius, you know, übernerd,</text><text start="586.945" dur="2.485">were you the star at school
+who could do everything?</text><text start="589.454" dur="1.532">What were you like as a kid?</text><text start="592.13" dur="2.493">LT: Yeah, I think I was
+the prototypical nerd.</text><text start="594.647" dur="1.269">I mean, I was ...</text><text start="597.13" dur="1.962">I was not a people person back then.</text><text start="599.116" dur="2.58">That&amp;#39;s my younger brother.</text><text start="601.72" dur="2.787">I was clearly more interested
+in the Rubik&amp;#39;s Cube</text><text start="604.531" dur="1.525">than my younger brother.</text><text start="606.08" dur="1.087">(Laughter)</text><text start="607.191" dur="3.12">My younger sister,
+who&amp;#39;s not in the picture,</text><text start="610.335" dur="2.414">when we had family meetings --</text><text start="612.773" dur="3.792">and it&amp;#39;s not a huge family, but I have,
+like, a couple of cousins --</text><text start="616.589" dur="2.864">she would prep me beforehand.</text><text start="619.477" dur="2.566">Like, before I stepped
+into the room she would say,</text><text start="622.067" dur="2.543">&amp;quot;OK. That&amp;#39;s so-and-so ...&amp;quot;</text><text start="625.925" dur="2.329">Because I was not --</text><text start="628.278" dur="1.215">I was a geek.</text><text start="629.517" dur="1.166">I was into computers,</text><text start="630.707" dur="1.159">I was into math,</text><text start="631.89" dur="1.151">I was into physics.</text><text start="633.065" dur="1.151">I was good at that.</text><text start="634.24" dur="2.786">I don&amp;#39;t think I was
+particularly exceptional.</text><text start="637.554" dur="2.391">Apparently, my sister said</text><text start="639.969" dur="6.851">that my biggest exceptional quality
+was that I would not let go.</text><text start="647.618" dur="2.557">CA: OK, so let&amp;#39;s go there,
+because that&amp;#39;s interesting.</text><text start="650.199" dur="1.174">You would not let go.</text><text start="651.397" dur="2.865">So that&amp;#39;s not about being
+a geek and being smart,</text><text start="654.286" dur="3.105">that&amp;#39;s about being ... stubborn?</text><text start="657.415" dur="1.527">LT: That&amp;#39;s about being stubborn.</text><text start="658.966" dur="1.388">That&amp;#39;s about, like,</text><text start="661.093" dur="2.2">just starting something</text><text start="663.317" dur="5.45">and not saying, &amp;quot;OK, I&amp;#39;m done,
+let&amp;#39;s do something else --</text><text start="668.791" dur="1.187">Look: shiny!&amp;quot;</text><text start="670.954" dur="3.381">And I notice that in many
+other parts in my life, too.</text><text start="675.47" dur="3.25">I lived in Silicon Valley for seven years.</text><text start="678.744" dur="4.112">And I worked for the same
+company, in Silicon Valley,</text><text start="682.88" dur="1.714">for the whole time.</text><text start="684.618" dur="1.538">That is unheard of.</text><text start="687.204" dur="1.767">That&amp;#39;s not how Silicon Valley works.</text><text start="688.995" dur="3.579">The whole point of Silicon Valley
+is that people jump between jobs</text><text start="692.598" dur="2.627">to kind of mix up the pot.</text><text start="695.249" dur="1.88">And that&amp;#39;s not the kind of person I am.</text><text start="697.153" dur="2.571">CA: But during the actual
+development of Linux itself,</text><text start="699.748" dur="4.296">that stubbornness sometimes brought
+you in conflict with other people.</text><text start="704.445" dur="1.654">Talk about that a bit.</text><text start="706.123" dur="5.544">Was that essential to sort of maintain
+the quality of what was being built?</text><text start="711.691" dur="2.165">How would you describe what happened?</text><text start="714.392" dur="2.083">LT: I don&amp;#39;t know if it&amp;#39;s essential.</text><text start="717.239" dur="3.145">Going back to the &amp;quot;I&amp;#39;m not
+a people person,&amp;quot; --</text><text start="720.408" dur="1.788">sometimes I&amp;#39;m also ...</text><text start="724.1" dur="1.533">shall we say,</text><text start="725.657" dur="3.42">&amp;quot;myopic&amp;quot; when it comes
+to other people&amp;#39;s feelings,</text><text start="729.667" dur="5.278">and that sometimes makes you
+say things that hurt other people.</text><text start="734.969" dur="3.768">And I&amp;#39;m not proud of that.</text><text start="738.761" dur="1.114">(Applause)</text><text start="739.899" dur="1.798">But, at the same time, it&amp;#39;s --</text><text start="742.978" dur="3.076">I get people who tell me
+that I should be nice.</text><text start="746.796" dur="5.668">And then when I try to explain to them
+that maybe you&amp;#39;re nice,</text><text start="752.488" dur="2.254">maybe you should be more aggressive,</text><text start="754.766" dur="3.542">they see that as me being not nice.</text><text start="758.332" dur="2.11">(Laughter)</text><text start="760.466" dur="2.168">What I&amp;#39;m trying to say
+is we are different.</text><text start="762.658" dur="1.81">I&amp;#39;m not a people person;</text><text start="764.492" dur="2.106">it&amp;#39;s not something
+I&amp;#39;m particularly proud of,</text><text start="766.622" dur="1.54">but it&amp;#39;s part of me.</text><text start="768.186" dur="2.705">And one of the things
+I really like about open source</text><text start="770.915" dur="5.792">is it really allows different
+people to work together.</text><text start="776.731" dur="1.724">We don&amp;#39;t have to like each other --</text><text start="778.479" dur="2.203">and sometimes we really
+don&amp;#39;t like each other.</text><text start="780.706" dur="3.487">Really -- I mean, there are very,
+very heated arguments.</text><text start="784.217" dur="2.992">But you can, actually,
+you can find things that --</text><text start="788.327" dur="2.227">you don&amp;#39;t even agree to disagree,</text><text start="790.578" dur="3.046">it&amp;#39;s just that you&amp;#39;re interested
+in really different things.</text><text start="793.648" dur="2.903">And coming back to the point
+where I said earlier</text><text start="796.575" dur="4.293">that I was afraid of commercial people
+taking advantage of your work,</text><text start="800.892" dur="2.599">it turned out, and very
+quickly turned out,</text><text start="803.515" dur="2.966">that those commercial people
+were lovely, lovely people.</text><text start="806.505" dur="3.706">And they did all the things that I was not
+at all interested in doing,</text><text start="810.235" dur="2.057">and they had completely different goals.</text><text start="812.316" dur="5.323">And they used open source in ways
+that I just did not want to go.</text><text start="817.663" dur="2.262">But because it was open
+source they could do it,</text><text start="819.949" dur="2.352">and it actually works
+really beautifully together.</text><text start="822.325" dur="2.024">And I actually think
+it works the same way.</text><text start="824.373" dur="3.205">You need to have the people-people,
+the communicators,</text><text start="827.602" dur="1.427">the warm and friendly people</text><text start="829.053" dur="1.722">who like --</text><text start="830.799" dur="1.442">(Laughter)</text><text start="832.265" dur="3.05">really want to hug you
+and get you into the community.</text><text start="835.339" dur="1.571">But that&amp;#39;s not everybody.</text><text start="836.934" dur="1.432">And that&amp;#39;s not me.</text><text start="838.39" dur="1.457">I care about the technology.</text><text start="839.871" dur="1.881">There are people who care about the UI.</text><text start="841.776" dur="3.07">I can&amp;#39;t do UI to save my life.</text><text start="844.87" dur="3.021">I mean, if I was stranded on an island</text><text start="847.915" dur="3.4">and the only way to get off that island
+was the make a pretty UI,</text><text start="851.339" dur="1.163">I&amp;#39;d die there.</text><text start="852.526" dur="1.151">(Laughter)</text><text start="853.701" dur="2.139">So there&amp;#39;s different kinds of people,</text><text start="855.864" dur="2.865">and I&amp;#39;m not making excuses,
+I&amp;#39;m trying to explain.</text><text start="858.753" dur="1.666">CA: Now, when we talked last week,</text><text start="860.443" dur="2.485">you talked about some
+other trait that you have,</text><text start="862.952" dur="1.591">which I found really interesting.</text><text start="864.567" dur="1.383">It&amp;#39;s this idea called taste.</text><text start="865.974" dur="2.002">And I&amp;#39;ve just got a couple of images here.</text><text start="868.354" dur="4.003">I think this is an example of not
+particularly good taste in code,</text><text start="872.381" dur="2.991">and this one is better taste,</text><text start="875.396" dur="2.063">which one can immediately see.</text><text start="877.483" dur="1.973">What is the difference between these two?</text><text start="880.639" dur="1.182">LT: So this is --</text><text start="881.845" dur="2.677">How many people here actually have coded?</text><text start="885.671" dur="1.52">CA: Oh my goodness.</text><text start="887.215" dur="1.155">LT: So I guarantee you,</text><text start="888.394" dur="1.545">everybody who raised their hand,</text><text start="889.963" dur="2.621">they have done what&amp;#39;s called
+a singly-linked list.</text><text start="892.608" dur="2.009">And it&amp;#39;s taught --</text><text start="895.115" dur="3.591">This, the first not very
+good taste approach,</text><text start="898.73" dur="4.067">is basically how it&amp;#39;s taught to be done
+when you start out coding.</text><text start="902.821" dur="2.044">And you don&amp;#39;t have to understand the code.</text><text start="904.889" dur="2.056">The most interesting part to me</text><text start="906.969" dur="2.189">is the last if statement.</text><text start="910.933" dur="2.26">Because what happens
+in a singly-linked list --</text><text start="913.217" dur="3.65">this is trying to remove
+an existing entry from a list --</text><text start="916.891" dur="3.842">and there&amp;#39;s a difference
+between if it&amp;#39;s the first entry</text><text start="920.757" dur="1.999">or whether it&amp;#39;s an entry in the middle.</text><text start="922.78" dur="1.605">Because if it&amp;#39;s the first entry,</text><text start="924.409" dur="3.016">you have to change
+the pointer to the first entry.</text><text start="927.449" dur="1.198">If it&amp;#39;s in the middle,</text><text start="928.671" dur="2.421">you have to change the pointer
+of a previous entry.</text><text start="931.116" dur="2.024">So they&amp;#39;re two completely different cases.</text><text start="933.164" dur="1.152">CA: And that&amp;#39;s better.</text><text start="934.34" dur="1.181">LT: And this is better.</text><text start="935.94" dur="2.323">It does not have the if statement.</text><text start="938.637" dur="2.213">And it doesn&amp;#39;t really matter --</text><text start="940.874" dur="3.201">I don&amp;#39;t want you understand
+why it doesn&amp;#39;t have the if statement,</text><text start="944.099" dur="1.342">but I want you to understand</text><text start="945.465" dur="2.625">that sometimes you can see
+a problem in a different way</text><text start="948.114" dur="3.354">and rewrite it so that
+a special case goes away</text><text start="951.492" dur="1.877">and becomes the normal case.</text><text start="953.393" dur="1.539">And that&amp;#39;s good code.</text><text start="955.328" dur="1.55">But this is simple code.</text><text start="956.902" dur="1.349">This is CS 101.</text><text start="958.275" dur="2.856">This is not important --
+although, details are important.</text><text start="961.798" dur="4.078">To me, the sign of people
+I really want to work with</text><text start="965.9" dur="2.673">is that they have good taste,
+which is how ...</text><text start="969.295" dur="1.597">I sent you this stupid example</text><text start="970.916" dur="2.344">that is not relevant
+because it&amp;#39;s too small.</text><text start="973.743" dur="2.142">Good taste is much bigger than this.</text><text start="975.909" dur="4.021">Good taste is about really
+seeing the big patterns</text><text start="979.954" dur="4.458">and kind of instinctively knowing
+what&amp;#39;s the right way to do things.</text><text start="984.436" dur="2.657">CA: OK, so we&amp;#39;re putting
+the pieces together here now.</text><text start="987.736" dur="1.467">You have taste,</text><text start="990.057" dur="2.337">in a way that&amp;#39;s meaningful
+to software people.</text><text start="992.418" dur="1.151">You&amp;#39;re --</text><text start="993.593" dur="1.816">(Laughter)</text><text start="995.433" dur="2.561">LT: I think it was meaningful
+to some people here.</text><text start="999.967" dur="2.917">CA: You&amp;#39;re a very smart computer coder,</text><text start="1002.908" dur="1.697">and you&amp;#39;re hellish stubborn.</text><text start="1005.622" dur="1.586">But there must be something else.</text><text start="1007.232" dur="1.623">I mean, you&amp;#39;ve changed the future.</text><text start="1008.879" dur="2.963">You must have the ability
+of these grand visions of the future.</text><text start="1011.866" dur="1.261">You&amp;#39;re a visionary, right?</text><text start="1013.151" dur="2.591">LT: I&amp;#39;ve actually felt slightly
+uncomfortable at TED</text><text start="1015.766" dur="2.16">for the last two days,</text><text start="1017.95" dur="2.595">because there&amp;#39;s a lot
+of vision going on, right?</text><text start="1020.569" dur="1.697">And I am not a visionary.</text><text start="1022.29" dur="2.229">I do not have a five-year plan.</text><text start="1024.543" dur="1.358">I&amp;#39;m an engineer.</text><text start="1025.925" dur="1.26">And I think it&amp;#39;s really --</text><text start="1027.209" dur="2.319">I mean -- I&amp;#39;m perfectly
+happy with all the people</text><text start="1029.552" dur="2.751">who are walking around
+and just staring at the clouds</text><text start="1032.327" dur="2.851">and looking at the stars
+and saying, &amp;quot;I want to go there.&amp;quot;</text><text start="1035.202" dur="1.452">But I&amp;#39;m looking at the ground,</text><text start="1036.678" dur="2.855">and I want to fix the pothole
+that&amp;#39;s right in front of me</text><text start="1039.557" dur="1.36">before I fall in.</text><text start="1040.941" dur="1.619">This is the kind of person I am.</text><text start="1042.584" dur="1.111">(Cheers)</text><text start="1043.719" dur="1.312">(Applause)</text><text start="1045.055" dur="3.611">CA: So you spoke to me last week
+about these two guys.</text><text start="1049.358" dur="2.435">Who are they and how
+do you relate to them?</text><text start="1052.239" dur="3.602">LT: Well, so this is kind
+of cliché in technology,</text><text start="1055.865" dur="2.007">the whole Tesla versus Edison,</text><text start="1057.896" dur="4.941">where Tesla is seen as the visionary
+scientist and crazy idea man.</text><text start="1062.861" dur="2.782">And people love Tesla.</text><text start="1065.667" dur="2.987">I mean, there are people who name
+their companies after him.</text><text start="1068.678" dur="1.15">(Laughter)</text><text start="1071.365" dur="2.612">The other person there is Edison,</text><text start="1074.001" dur="3.507">who is actually often vilified
+for being kind of pedestrian</text><text start="1077.532" dur="1.921">and is --</text><text start="1079.477" dur="2.722">I mean, his most famous quote is,</text><text start="1082.223" dur="4.714">&amp;quot;Genius is one percent inspiration
+and 99 percent perspiration.&amp;quot;</text><text start="1087.394" dur="1.453">And I&amp;#39;m in the Edison camp,</text><text start="1088.871" dur="2.184">even if people don&amp;#39;t always like him.</text><text start="1091.079" dur="3.019">Because if you actually compare the two,</text><text start="1094.122" dur="4.533">Tesla has kind of this mind
+grab these days,</text><text start="1098.679" dur="1.999">but who actually changed the world?</text><text start="1101.853" dur="3.382">Edison may not have been a nice person,</text><text start="1105.259" dur="3.132">he did a lot of things --</text><text start="1108.415" dur="2.429">he was maybe not so intellectual,</text><text start="1110.868" dur="2.227">not so visionary.</text><text start="1113.119" dur="3.661">But I think I&amp;#39;m more
+of an Edison than a Tesla.</text><text start="1117.669" dur="2.438">CA: So our theme at TED
+this week is dreams --</text><text start="1120.131" dur="1.347">big, bold, audacious dreams.</text><text start="1121.502" dur="1.802">You&amp;#39;re really the antidote to that.</text><text start="1123.328" dur="2.109">LT: I&amp;#39;m trying to dial it down a bit, yes.</text><text start="1125.461" dur="1.151">CA: That&amp;#39;s good.</text><text start="1126.636" dur="1.08">(Laughter)</text><text start="1127.74" dur="1.605">We embrace you, we embrace you.</text><text start="1131.046" dur="2.749">Companies like Google and many
+others have made, arguably,</text><text start="1133.819" dur="2.206">like, billions of dollars
+out of your software.</text><text start="1136.049" dur="1.151">Does that piss you off?</text><text start="1137.224" dur="1.151">LT: No.</text><text start="1138.399" dur="2.634">No, it doesn&amp;#39;t piss me off
+for several reasons.</text><text start="1141.057" dur="2.01">And one of them is, I&amp;#39;m doing fine.</text><text start="1143.091" dur="1.296">I&amp;#39;m really doing fine.</text><text start="1144.942" dur="1.584">But the other reason is --</text><text start="1146.55" dur="5.327">I mean, without doing the whole
+open source and really letting go thing,</text><text start="1151.901" dur="2.226">Linux would never have been what it is.</text><text start="1154.151" dur="5.096">And it&amp;#39;s brought experiences
+I don&amp;#39;t really enjoy, public talking,</text><text start="1159.271" dur="2.151">but at the same time,
+this is an experience.</text><text start="1161.446" dur="1.28">Trust me.</text><text start="1163.238" dur="5.143">So there&amp;#39;s a lot of things going on
+that make me a very happy man</text><text start="1168.405" dur="2.529">and thinking I did the right choices.</text><text start="1170.958" dur="1.912">CA: Is the open source idea --</text><text start="1172.894" dur="1.636">this is, I think we&amp;#39;ll end here --</text><text start="1174.554" dur="4.054">is the open source idea
+fully realized now in the world,</text><text start="1178.632" dur="3.018">or is there more that it could go,</text><text start="1181.674" dur="2.015">are there more things that it could do?</text><text start="1184.738" dur="2.234">LT: So, I&amp;#39;m of two minds there.</text><text start="1186.996" dur="4.486">I think one reason open source
+works so well in code</text><text start="1191.506" dur="2.409">is that at the end of the day,</text><text start="1193.939" dur="3.246">code tends to be somewhat black and white.</text><text start="1197.209" dur="4.157">There&amp;#39;s often a fairly good way to decide,</text><text start="1201.39" dur="3.946">this is done correctly
+and this is not done well.</text><text start="1205.36" dur="2.378">Code either works or it doesn&amp;#39;t,</text><text start="1207.762" dur="4.608">which means that there&amp;#39;s less
+room for arguments.</text><text start="1212.394" dur="3.631">And we have arguments despite this, right?</text><text start="1216.049" dur="1.915">In many other areas --</text><text start="1217.988" dur="3.741">I mean, people have talked about
+open politics and things like that --</text><text start="1221.753" dur="2.949">and it&amp;#39;s really hard sometimes to say</text><text start="1224.726" dur="3.757">that, yes, you can apply the same
+principles in some other areas</text><text start="1228.507" dur="5.439">just because the black and white
+turns into not just gray,</text><text start="1233.97" dur="1.603">but different colors.</text><text start="1236.339" dur="4.366">So, obviously open source in science
+is making a comeback.</text><text start="1240.729" dur="1.634">Science was there first.</text><text start="1242.387" dur="2.667">But then science ended up
+being pretty closed,</text><text start="1245.078" dur="3.624">with very expensive journals
+and some of that going on.</text><text start="1248.726" dur="3.836">And open source is making
+a comeback in science,</text><text start="1252.586" dur="4.147">with things like arXiv and open journals.</text><text start="1259.262" dur="1.953">Wikipedia changed the world, too.</text><text start="1261.239" dur="1.454">So there are other examples,</text><text start="1262.717" dur="1.633">I&amp;#39;m sure there are more to come.</text><text start="1265.66" dur="1.567">CA: But you&amp;#39;re not a visionary,</text><text start="1267.251" dur="1.953">and so it&amp;#39;s not up to you to name them.</text><text start="1269.228" dur="1.159">LT: No.</text><text start="1270.411" dur="1.048">(Laughter)</text><text start="1271.483" dur="1.964">It&amp;#39;s up to you guys to make them, right?</text><text start="1273.471" dur="1.263">CA: Exactly.</text><text start="1274.758" dur="1.158">Linus Torvalds,</text><text start="1275.94" dur="2.245">thank you for Linux,
+thank you for the Internet,</text><text start="1278.209" dur="1.865">thank you for all those Android phones.</text><text start="1280.098" dur="3.197">Thank you for coming here to TED
+and revealing so much of yourself.</text><text start="1283.319" dur="1.152">LT: Thank you.</text><text start="1284.495" dur="4.44">(Applause)</text></transcript>n
