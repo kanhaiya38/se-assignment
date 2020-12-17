@@ -1,0 +1,1 @@
+void base_seed(int **arr, int len);
